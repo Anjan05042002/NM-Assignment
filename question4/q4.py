@@ -1,6 +1,6 @@
 import random
 xx=[]
-n=int(input("enter the number :"))
+n=19#The number of random numbers
 def f(x):
     return(x**3)
 for i in range(n+1):
